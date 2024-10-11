@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDiff", "PlanDiff.csproj", "{2EAFEE0F-1B41-47C3-A198-470D9CFAFA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAFEE0F-1B41-47C3-A198-470D9CFAFA61}.Debug|x64.ActiveCfg = Debug|x64
+		{2EAFEE0F-1B41-47C3-A198-470D9CFAFA61}.Debug|x64.Build.0 = Debug|x64
+		{2EAFEE0F-1B41-47C3-A198-470D9CFAFA61}.Release|x64.ActiveCfg = Release|x64
+		{2EAFEE0F-1B41-47C3-A198-470D9CFAFA61}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04DF722-DF07-4576-B2CC-3E0F5EA6AA9D}
+	EndGlobalSection
+EndGlobal
